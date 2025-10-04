@@ -1,4 +1,4 @@
-This Scrpt is a customized option to 'Send Email attachment specific to a record'
+This Script is a customized option to 'Send Email attachment specific to a record'
 Maximo can send email communication with attachments, in following ways.
 
 By adding a default attachment(s) to a communication template and wherever this template is used, it will send the associated files as well. But this is set to a default document(s) and cannot be specific to record.
